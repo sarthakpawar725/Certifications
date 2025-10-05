@@ -1,2 +1,2 @@
 # Certifications
-Cyber security Certifications Writeups
+Cyber security Certifications Writeups.
